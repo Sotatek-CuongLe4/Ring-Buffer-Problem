@@ -1,0 +1,11 @@
+/build/
+/coverage_html/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+Testing/
+*.o
+*.a
+main
+test_ringbuffer
