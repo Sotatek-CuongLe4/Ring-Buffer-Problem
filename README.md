@@ -17,6 +17,5 @@ make
 Run
 bash# Run demo
 ./main
-
-# Run tests
+# Run tests 
 ./test_ringbuffer
