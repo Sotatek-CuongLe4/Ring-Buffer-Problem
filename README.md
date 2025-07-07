@@ -1,4 +1,6 @@
-# Structure
+Ring Buffer Library
+Thread-safe ring buffer implementation in C++ with C API.
+Project Structure
 RingBuffer/
 ├── CMakeLists.txt
 ├── README.md
@@ -9,7 +11,7 @@ RingBuffer/
 ├── test/
 │   └── test_ringbuffer.cpp
 └── main.cpp
-# Build
+Build
 bashmkdir build
 cd build
 cmake ..
@@ -17,5 +19,5 @@ make
 Run
 bash# Run demo
 ./main
-# Run tests 
+# Run tests
 ./test_ringbuffer
