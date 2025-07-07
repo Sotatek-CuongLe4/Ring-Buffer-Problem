@@ -1,6 +1,5 @@
-
-# Project Structure
 ``` bash
+# Project Structure
 RingBuffer/
 ├── CMakeLists.txt
 ├── README.md
@@ -16,8 +15,6 @@ mkdir build
 cd build
 cmake ..
 make
-# Run
-``` bash
 # Run demo
 ./main
 # Run tests
